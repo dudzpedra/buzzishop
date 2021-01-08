@@ -6,4 +6,10 @@ Este projeto tem o propósito de impulsionar uma marca local e também servir co
 
 Para rodar o projeto localmente, basta clonar este diretório, acessar a pasta Shop App e executar npm run serve no terminal.
 
+Site temporariamente disponível em https://buzzi-shop.web.app/ .
+
+Framework - Vuejs 2
+HTML, Javascript and CSS.
+Hosting by Firebase.
+
 ;)
